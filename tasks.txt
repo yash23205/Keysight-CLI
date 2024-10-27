@@ -1,0 +1,12 @@
+-------------------------------PENDING-------------------------------------------------
+[TASK_NUMBER]  |  [TASK_ID] | [TASK_NAME] | [TASK_DESCRIPTION] | [DATE_ASSIGNED] | [TIME_ASSIGNED] | [FLAG]
+
+0  |  000035 | Buy Goodies | Knife,Choco,Caramel | 2024-10-28 | 01:11:23  |  False
+1  |  000050 | Pay Bills | Electricity,Water | 2024-10-28 | 01:15:34  |  False
+2  |  000030 | Play Games | Tennis,Badmintion | 2024-10-28 | 01:16:13  |  False
+
+--------------------------------COMPLETED-----------------------------------------------
+[TASK_NUMBER]  |  [TASK_ID] | [TASK_NAME] | [TASK_DESCRIPTION] | [DATE_COMPLETED] | [TIME_COMPLETED]
+
+0  |  000041 | Buy Car | Mercedes,G-Wagon | 2024-10-28 | 01:16:31 | True
+1  |  000070 | Pay EMIs | Home,Car,Mobile | 2024-10-28 | 01:16:46 | True
