@@ -1,0 +1,9 @@
+-------------------------------PENDING-------------------------------------------------
+[TASK_NUMBER]  |  [TASK_ID] | [TASK_NAME] | [TASK_DESCRIPTION] | [DATE_ASSIGNED] | [TIME_ASSIGNED] | [FLAG]
+
+0  |  000047 | Buy Cars | Mercedes,G-Wagon | 2024-10-28 | 17:04:26  |  False
+1  |  000062 | Pay Bills | Electricity,Water | 2024-10-28 | 17:04:41  |  False
+
+--------------------------------COMPLETED-----------------------------------------------
+[TASK_NUMBER]  |  [TASK_ID] | [TASK_NAME] | [TASK_DESCRIPTION] | [DATE_COMPLETED] | [TIME_COMPLETED]
+
